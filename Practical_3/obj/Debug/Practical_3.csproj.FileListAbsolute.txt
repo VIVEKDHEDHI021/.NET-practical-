@@ -1,0 +1,7 @@
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\bin\Debug\Practical_3.exe.config
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\bin\Debug\Practical_3.exe
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\bin\Debug\Practical_3.pdb
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\obj\Debug\Practical_3.csproj.AssemblyReference.cache
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\obj\Debug\Practical_3.csproj.CoreCompileInputs.cache
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\obj\Debug\Practical_3.exe
+C:\Users\smitp.VIVEKDHEDHI\source\repos\Practical_3\obj\Debug\Practical_3.pdb
