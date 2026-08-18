@@ -1,0 +1,7 @@
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\bin\Debug\Practicle_2.exe.config
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\bin\Debug\Practicle_2.exe
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\bin\Debug\Practicle_2.pdb
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\obj\Debug\Practicle_2.csproj.AssemblyReference.cache
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\obj\Debug\Practicle_2.csproj.CoreCompileInputs.cache
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\obj\Debug\Practicle_2.exe
+C:\Users\nutan\source\repos\Practicle_2\Practicle_2\obj\Debug\Practicle_2.pdb
